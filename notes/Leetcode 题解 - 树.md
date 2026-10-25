@@ -485,7 +485,7 @@ For example, the lowest common ancestor (LCA) of nodes 2 and 8 is 6. Another exa
 
 ### 5. 二叉树的最近公共祖先
 
-236\. Lowest Common Ancestor of a Binary Tree (Medium) 
+236\. Lowest Common Ancestor of a Binary Tree (Medium)
 
 [Leetcode](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/) / [力扣](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/description/)
 
